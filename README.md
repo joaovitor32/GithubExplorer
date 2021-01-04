@@ -19,23 +19,17 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/matheuscastroweb/github-explorer
+$ git clone https://github.com/joaovitor32/GithubExplorer/
 github-explorer
 
 # Go into the repository
-$ cd github-explorer
+$ cd GithubExplorer
 
 # Install dependencies
 $ yarn install
 
 # Run in browser
 $ yarn start
-
-```
-
-## License
-
-This project is under the MIT license. See the [LICENSE](https://github.com/matheuscastroweb/github-e/blob/master/LICENSE) for more information.
 
 ---
 
